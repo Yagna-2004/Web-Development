@@ -1,0 +1,28 @@
+body{
+    background-color: d7d0f2;
+  }
+  
+  table{
+    border-collapse: collapse;
+    height: 400px;
+    width: 500px
+  }
+  th{
+    height: 50px;
+    font-size: 30px;
+    color: red
+  }
+  ul,ol{
+    text-align: left;
+  }
+  table, th, td{
+    border: 2px dashed black;
+    padding: 20px;
+  }
+  
+  tr:hover{
+    color: purple;
+  }
+  tr:hover {
+    background-color: e4defc;
+  }
